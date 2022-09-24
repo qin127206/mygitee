@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bae4e89e-478e-4885-979f-dfe1cd781d28" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/web/test.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <list id="7c14cd88-4ad8-4219-986e-c6e26c04bf14" name="Revert &quot;第二次修改test.jsp&quot;" comment="Revert &quot;第二次修改test.jsp&quot;&#10;&#10;This reverts commit 19042cb6">
+      <change beforePath="$PROJECT_DIR$/web/test.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/test.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +64,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1664013674551</updated>
-      <workItem from="1664013677807" duration="1058000" />
+      <workItem from="1664013677807" duration="1379000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1664013911936</created>
@@ -71,7 +73,21 @@
       <option name="project" value="LOCAL" />
       <updated>1664013911936</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="test">
+      <created>1664014760056</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1664014760056</updated>
+    </task>
+    <task id="LOCAL-00003" summary="第二次修改test.jsp">
+      <created>1664014884991</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1664014884991</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -79,24 +95,30 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="第二次修改test.jsp" />
+    <MESSAGE value="Revert &quot;第二次修改test.jsp&quot;&#10;&#10;This reverts commit 19042cb6" />
+    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;第二次修改test.jsp&quot;&#10;&#10;This reverts commit 19042cb6" />
   </component>
   <component name="WindowStateProjectService">
     <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1664013782367">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1664013782367" />
-    <state x="283" y="0" key="CommitChangelistDialog2" timestamp="1664013908777">
+    <state x="283" y="0" key="CommitChangelistDialog2" timestamp="1664015057688">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="283" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1664013908777" />
+    <state x="283" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1664015057688" />
     <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1664013724799">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1664013724799" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1664014650853">
+    <state x="471" y="74" key="RollbackChangesDialog" timestamp="1664014838615">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1664014650853" />
+    <state x="471" y="74" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1664014838615" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1664014973593">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1664014973593" />
   </component>
 </project>
