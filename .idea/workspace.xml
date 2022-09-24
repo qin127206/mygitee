@@ -64,7 +64,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1664013674551</updated>
-      <workItem from="1664013677807" duration="1379000" />
+      <workItem from="1664013677807" duration="1694000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1664013911936</created>
@@ -87,27 +87,45 @@
       <option name="project" value="LOCAL" />
       <updated>1664014884991</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Revert &quot;第二次修改test.jsp&quot;&#10;&#10;This reverts commit 19042cb6ae5f30111fab25a6b0bd792a0ddcc709.">
+      <created>1664015076969</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1664015076969</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test" />
     <MESSAGE value="第二次修改test.jsp" />
     <MESSAGE value="Revert &quot;第二次修改test.jsp&quot;&#10;&#10;This reverts commit 19042cb6" />
-    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;第二次修改test.jsp&quot;&#10;&#10;This reverts commit 19042cb6" />
+    <MESSAGE value="Revert &quot;第二次修改test.jsp&quot;&#10;&#10;This reverts commit 19042cb6ae5f30111fab25a6b0bd792a0ddcc709." />
+    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;第二次修改test.jsp&quot;&#10;&#10;This reverts commit 19042cb6ae5f30111fab25a6b0bd792a0ddcc709." />
   </component>
   <component name="WindowStateProjectService">
     <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1664013782367">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1664013782367" />
-    <state x="283" y="0" key="CommitChangelistDialog2" timestamp="1664015057688">
+    <state x="211" y="0" key="CommitChangelistDialog2" timestamp="1664015072538">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="283" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1664015057688" />
+    <state x="211" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1664015072538" />
     <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1664013724799">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
